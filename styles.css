@@ -1,0 +1,121 @@
+body {
+    color: #fff;
+  }
+  
+  #tribute-info {
+    width: 449px;
+    height: 2076px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #b0b7bc;
+    margin-left: 516px;
+    margin-right: 475px;
+  }
+  
+  #image {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    width: 394.594px;
+    max-width: 100%;
+    height: 284px;
+    border-radius: 25px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+  }
+  #img-caption {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #top-Box {
+    margin: 0 auto;
+    justify-content: center;
+    width: 420px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #002244;
+  }
+  h1 {
+    margin-bottom: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    font-family: "Roboto Mono";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .smallNumber {
+    padding: 10px;
+    font-size: 20px;
+  }
+  #Teams {
+    padding-left: 10px;
+    margin: 0;
+    color: #fff;
+    font-family: "Roboto Mono";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  #position {
+    padding-left: 10px;
+    margin: 0;
+  }
+  #stats {
+    padding-left: 10px;
+    margin: 0;
+    padding-bottom: 10px;
+  }
+  #Timeline {
+    margin: 0 auto;
+    justify-content: center;
+    width: 420px;
+    height: 900px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #024;
+  }
+  #timeline-text {
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    color: #fff;
+    font-family: "Roboto Mono";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  #Bottom {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    width: 420px;
+    height: 550px;
+    border-radius: 25px;
+    background: #024;
+  }
+  #bottom-text {
+    margin: 0;
+    padding-left: 10px;
+    color: #fff;
+    font-family: "Roboto Mono";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  #box {
+    width: 449px;
+    height: 29px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #c60c30;
+  }
+  
